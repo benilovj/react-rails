@@ -126,7 +126,7 @@ Note: Your component is added to `app/javascript/components/` by default.
 ```
 $ rails s
 ```
-output: greeting: Hello from react-rails", inspect webpage in your browser too see change in tag props.
+output: greeting: Hello from react-rails", inspect webpage in your browser to see change in tag props.
 
 ### Component name
 
